@@ -1,0 +1,251 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1734671532876,1036,Graphql HTTP Request,200,OK,setUp Thread Group 1-2,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,1024,0,891
+1734671532857,1054,Graphql HTTP Request,200,OK,setUp Thread Group 1-1,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,1047,0,913
+1734671533473,441,Graphql HTTP Request,200,OK,setUp Thread Group 1-5,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,439,0,298
+1734671533072,850,Graphql HTTP Request,200,OK,setUp Thread Group 1-3,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,847,0,700
+1734671533286,635,Graphql HTTP Request,200,OK,setUp Thread Group 1-4,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,635,0,487
+1734671533915,362,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,362,0,235
+1734671533918,369,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,369,0,237
+1734671533917,370,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,370,0,235
+1734671533924,367,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,367,0,235
+1734671533922,372,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,372,0,240
+1734671534278,347,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,347,0,228
+1734671534291,356,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,356,0,232
+1734671534295,354,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,353,0,230
+1734671534289,361,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,361,0,236
+1734671534288,365,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,364,0,234
+1734671534626,345,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,344,0,229
+1734671534649,344,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,344,0,229
+1734671534653,344,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,344,0,229
+1734671534648,367,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,366,0,244
+1734671534651,374,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,373,0,239
+1734671534971,349,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,348,0,231
+1734671534994,342,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,342,0,229
+1734671534998,344,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,344,0,230
+1734671535015,345,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,344,0,230
+1734671535027,345,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,343,0,228
+1734671535320,353,Graphql HTTP Request,200,OK,setUp Thread Group 1-1,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,352,0,234
+1734671535337,361,Graphql HTTP Request,200,OK,setUp Thread Group 1-3,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,361,0,233
+1734671535345,355,Graphql HTTP Request,200,OK,setUp Thread Group 1-2,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,354,0,231
+1734671535361,346,Graphql HTTP Request,200,OK,setUp Thread Group 1-4,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,346,0,229
+1734671535373,350,Graphql HTTP Request,200,OK,setUp Thread Group 1-5,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,349,0,230
+1734671535674,347,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,347,0,228
+1734671535701,354,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,353,0,232
+1734671535700,356,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,356,0,234
+1734671535710,349,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,349,0,230
+1734671535724,348,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,348,0,228
+1734671536022,349,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,349,0,227
+1734671536055,401,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,400,0,233
+1734671536057,399,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,398,0,233
+1734671536059,409,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,409,0,231
+1734671536073,400,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,399,0,228
+1734671536372,350,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,350,0,231
+1734671536457,353,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,353,0,238
+1734671536456,354,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,354,0,238
+1734671536471,342,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,342,0,228
+1734671536473,343,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,343,0,229
+1734671536722,343,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,343,0,229
+1734671536811,344,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,343,0,230
+1734671536814,349,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,349,0,229
+1734671536817,346,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,346,0,227
+1734671536811,344,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,342,0,227
+1734671537066,347,Graphql HTTP Request,200,OK,setUp Thread Group 1-1,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,347,0,230
+1734671537163,350,Graphql HTTP Request,200,OK,setUp Thread Group 1-5,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,350,0,229
+1734671537163,350,Graphql HTTP Request,200,OK,setUp Thread Group 1-4,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,350,0,230
+1734671537165,360,Graphql HTTP Request,200,OK,setUp Thread Group 1-2,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,360,0,232
+1734671537168,361,Graphql HTTP Request,200,OK,setUp Thread Group 1-3,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,361,0,232
+1734671537414,351,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,351,0,230
+1734671537514,348,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,347,0,227
+1734671537514,348,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,347,0,227
+1734671537531,355,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,355,0,232
+1734671537530,358,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,358,0,237
+1734671537766,347,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,347,0,227
+1734671537862,347,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,347,0,227
+1734671537862,354,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,354,0,231
+1734671537887,352,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,352,0,233
+1734671537889,352,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,350,0,229
+1734671538113,338,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,338,0,225
+1734671538210,341,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,340,0,227
+1734671538217,341,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,341,0,227
+1734671538241,340,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,340,0,227
+1734671538240,344,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,344,0,228
+1734671538452,340,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,339,0,225
+1734671538551,341,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,341,0,227
+1734671538559,339,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,339,0,225
+1734671538584,341,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,340,0,227
+1734671538582,344,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,344,0,229
+1734671538792,345,Graphql HTTP Request,200,OK,setUp Thread Group 1-1,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,344,0,226
+1734671538893,344,Graphql HTTP Request,200,OK,setUp Thread Group 1-5,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,344,0,228
+1734671538898,345,Graphql HTTP Request,200,OK,setUp Thread Group 1-4,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,345,0,227
+1734671538925,347,Graphql HTTP Request,200,OK,setUp Thread Group 1-2,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,346,0,228
+1734671538926,348,Graphql HTTP Request,200,OK,setUp Thread Group 1-3,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,348,0,227
+1734671539137,345,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,345,0,226
+1734671539238,354,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,354,0,226
+1734671539244,355,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,355,0,232
+1734671539272,347,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,346,0,227
+1734671539274,353,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,353,0,231
+1734671539483,348,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,348,0,226
+1734671539593,350,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,347,0,227
+1734671539599,350,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,350,0,230
+1734671539619,369,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,369,0,229
+1734671539628,364,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,364,0,227
+1734671539832,340,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,340,0,227
+1734671539943,340,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,340,0,226
+1734671539950,342,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,341,0,226
+1734671539988,342,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,342,0,227
+1734671539993,338,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,338,0,224
+1734671540172,346,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,346,0,232
+1734671540283,351,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,351,0,237
+1734671540293,342,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,341,0,228
+1734671540330,341,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,341,0,227
+1734671540334,343,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,342,0,226
+1734671540519,351,Graphql HTTP Request,200,OK,setUp Thread Group 1-1,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,351,0,226
+1734671540636,349,Graphql HTTP Request,200,OK,setUp Thread Group 1-4,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,349,0,226
+1734671540634,354,Graphql HTTP Request,200,OK,setUp Thread Group 1-5,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,353,0,230
+1734671540672,347,Graphql HTTP Request,200,OK,setUp Thread Group 1-2,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,347,0,227
+1734671540677,342,Graphql HTTP Request,200,OK,setUp Thread Group 1-3,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,342,0,226
+1734671540871,346,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,346,0,226
+1734671540986,349,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,349,0,228
+1734671540988,349,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,349,0,227
+1734671541021,346,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,346,0,226
+1734671541020,348,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,348,0,228
+1734671541218,347,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,347,0,227
+1734671541336,360,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,359,0,227
+1734671541340,362,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,361,0,225
+1734671541368,364,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,363,0,226
+1734671541369,363,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,363,0,227
+1734671541566,340,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,339,0,226
+1734671541697,339,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,339,0,225
+1734671541702,346,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,345,0,231
+1734671541732,344,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,344,0,230
+1734671541732,345,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,345,0,230
+1734671541906,340,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,340,0,226
+1734671542037,339,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,339,0,225
+1734671542048,340,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,339,0,226
+1734671542077,341,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,341,0,226
+1734671542077,341,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,341,0,226
+1734671542247,348,Graphql HTTP Request,200,OK,setUp Thread Group 1-1,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,347,0,228
+1734671542377,344,Graphql HTTP Request,200,OK,setUp Thread Group 1-4,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,344,0,225
+1734671542388,345,Graphql HTTP Request,200,OK,setUp Thread Group 1-5,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,345,0,228
+1734671542420,346,Graphql HTTP Request,200,OK,setUp Thread Group 1-2,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,346,0,228
+1734671542419,350,Graphql HTTP Request,200,OK,setUp Thread Group 1-3,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,350,0,230
+1734671542595,346,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,345,0,226
+1734671542722,353,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,353,0,228
+1734671542734,347,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,347,0,228
+1734671542770,348,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,348,0,228
+1734671542767,353,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,353,0,231
+1734671542940,351,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,351,0,231
+1734671543076,348,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,347,0,226
+1734671543082,354,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,354,0,226
+1734671543118,362,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,361,0,226
+1734671543119,361,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,361,0,227
+1734671543292,340,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,339,0,226
+1734671543424,342,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,342,0,227
+1734671543436,342,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,342,0,228
+1734671543480,339,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,338,0,226
+1734671543480,340,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,340,0,226
+1734671543632,341,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,341,0,226
+1734671543766,340,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,339,0,226
+1734671543778,342,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,342,0,226
+1734671543819,341,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,341,0,227
+1734671543820,343,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,343,0,228
+1734671543974,345,Graphql HTTP Request,200,OK,setUp Thread Group 1-1,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,344,0,227
+1734671544106,343,Graphql HTTP Request,200,OK,setUp Thread Group 1-4,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,343,0,226
+1734671544121,344,Graphql HTTP Request,200,OK,setUp Thread Group 1-5,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,343,0,227
+1734671544160,347,Graphql HTTP Request,200,OK,setUp Thread Group 1-2,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,347,0,230
+1734671544164,345,Graphql HTTP Request,200,OK,setUp Thread Group 1-3,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,345,0,228
+1734671544319,345,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,345,0,225
+1734671544450,350,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,350,0,230
+1734671544465,347,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,346,0,227
+1734671544509,345,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,345,0,225
+1734671544508,347,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,347,0,226
+1734671544664,345,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,344,0,225
+1734671544800,345,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,345,0,225
+1734671544812,345,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,344,0,224
+1734671544854,348,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,348,0,227
+1734671544855,348,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,347,0,227
+1734671545009,337,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,337,0,224
+1734671545145,337,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,337,0,224
+1734671545157,339,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,338,0,225
+1734671545203,337,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,337,0,224
+1734671545203,338,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,338,0,224
+1734671545346,341,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,341,0,226
+1734671545483,337,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,337,0,224
+1734671545496,338,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,338,0,225
+1734671545541,339,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,338,0,225
+1734671545541,339,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,339,0,225
+1734671545687,342,Graphql HTTP Request,200,OK,setUp Thread Group 1-1,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,342,0,225
+1734671545821,342,Graphql HTTP Request,200,OK,setUp Thread Group 1-4,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,342,0,224
+1734671545835,342,Graphql HTTP Request,200,OK,setUp Thread Group 1-5,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,342,0,225
+1734671545881,344,Graphql HTTP Request,200,OK,setUp Thread Group 1-2,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,343,0,227
+1734671545881,346,Graphql HTTP Request,200,OK,setUp Thread Group 1-3,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,346,0,230
+1734671546029,348,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,347,0,228
+1734671546163,344,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,344,0,225
+1734671546177,344,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,344,0,224
+1734671546225,346,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,345,0,225
+1734671546227,344,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,343,0,225
+1734671546377,345,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,344,0,225
+1734671546507,345,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,345,0,225
+1734671546522,356,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,355,0,224
+1734671546571,351,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,351,0,226
+1734671546571,354,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,354,0,226
+1734671546722,340,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,339,0,225
+1734671546852,341,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,341,0,227
+1734671546878,341,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,340,0,226
+1734671546922,340,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,339,0,226
+1734671546926,341,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,341,0,227
+1734671547062,346,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,346,0,227
+1734671547194,342,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,342,0,229
+1734671547219,341,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,341,0,227
+1734671547262,339,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,339,0,226
+1734671547267,337,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,337,0,224
+1734671547409,340,Graphql HTTP Request,200,OK,setUp Thread Group 1-1,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,340,0,224
+1734671547537,349,Graphql HTTP Request,200,OK,setUp Thread Group 1-4,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,349,0,226
+1734671547560,352,Graphql HTTP Request,200,OK,setUp Thread Group 1-5,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,352,0,225
+1734671547602,351,Graphql HTTP Request,200,OK,setUp Thread Group 1-3,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,351,0,224
+1734671547605,348,Graphql HTTP Request,200,OK,setUp Thread Group 1-2,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,348,0,224
+1734671547750,345,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,345,0,225
+1734671547887,346,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,346,0,226
+1734671547913,353,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,353,0,226
+1734671547954,348,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,348,0,226
+1734671547954,348,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,348,0,226
+1734671548096,347,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,346,0,226
+1734671548234,345,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,345,0,226
+1734671548266,344,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,344,0,225
+1734671548303,352,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,352,0,228
+1734671548303,357,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,357,0,228
+1734671548443,339,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,339,0,225
+1734671548580,337,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,337,0,224
+1734671548611,336,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,336,0,223
+1734671548655,340,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,340,0,226
+1734671548660,339,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,339,0,225
+1734671548782,346,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,346,0,232
+1734671548918,339,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,338,0,224
+1734671548948,340,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,340,0,225
+1734671548995,338,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,338,0,224
+1734671549000,339,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,339,0,223
+1734671549128,341,Graphql HTTP Request,200,OK,setUp Thread Group 1-1,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,341,0,225
+1734671549257,344,Graphql HTTP Request,200,OK,setUp Thread Group 1-4,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,343,0,224
+1734671549288,342,Graphql HTTP Request,200,OK,setUp Thread Group 1-5,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,342,0,225
+1734671549333,345,Graphql HTTP Request,200,OK,setUp Thread Group 1-2,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,345,0,225
+1734671549339,343,Graphql HTTP Request,200,OK,setUp Thread Group 1-3,text,true,,7862,276,5,5,https://staging.api.tevaera.com/graphql,343,0,224
+1734671549470,346,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,346,0,225
+1734671549601,344,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,344,0,224
+1734671549630,347,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,346,0,226
+1734671549678,349,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,349,0,226
+1734671549682,347,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,875,778,5,5,https://staging.api.tevaera.com/graphql,347,0,225
+1734671549817,344,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,343,0,224
+1734671549946,345,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,345,0,225
+1734671549977,345,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,344,0,225
+1734671550030,345,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,345,0,225
+1734671550029,347,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,875,769,5,5,https://staging.api.tevaera.com/graphql,347,0,226
+1734671550161,341,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,341,0,227
+1734671550292,339,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,339,0,226
+1734671550322,338,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,338,0,224
+1734671550375,339,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,338,0,225
+1734671550376,339,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,899,641,5,5,https://staging.api.tevaera.com/graphql,339,0,225
+1734671550502,338,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-1,text,false,,899,764,5,5,https://staging.api.tevaera.com/graphql,338,0,225
+1734671550632,341,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-4,text,false,,899,764,4,4,https://staging.api.tevaera.com/graphql,341,0,225
+1734671550660,339,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-5,text,false,,899,764,3,3,https://staging.api.tevaera.com/graphql,339,0,225
+1734671550714,339,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-2,text,false,,899,764,2,2,https://staging.api.tevaera.com/graphql,339,0,225
+1734671550715,339,Graphql HTTP Request,400,Bad Request,setUp Thread Group 1-3,text,false,,899,764,2,2,https://staging.api.tevaera.com/graphql,339,0,225
